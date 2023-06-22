@@ -20,3 +20,9 @@ Deprecated for soon-to-be removed features
 ### Changed
 Unknown and none values replaced by the value 0
 Probably is also removed to keep only the value
+
+# [Unreleased]
+
+## [1.1.0] - 2023-06-22
+Added:
+Apache 2.0 license is added
